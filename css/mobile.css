@@ -1,0 +1,31 @@
+.header nav {
+    justify-content: center;
+}
+
+.container-projects{
+    padding: 0px;
+}
+.row {
+    padding: 20px;
+
+}
+
+.s-skills{
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+#about {
+    padding: 2rem 0 4rem;
+}
+
+.s-projects{
+    height: initial;
+    width: 100%;
+    padding: 0;
+}
+
+.grid-skills{
+    flex-wrap: wrap;
+    max-width: 375px;
+}
